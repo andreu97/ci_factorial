@@ -1,5 +1,5 @@
 import pytest
-from practiques.practica4.ci_factorial.src.tdd import factorial
+from src.tdd import factorial
 
 
 def test_tdd():
