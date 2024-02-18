@@ -1,6 +1,8 @@
 import pytest
 
-from practiques.practica3.src.tdd import factorial
+from practiques.practica4.ci_factorial.src.tdd import factorial
+
+
 
 def test_tdd():
     assert factorial(1)==1
